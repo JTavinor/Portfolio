@@ -1,0 +1,61 @@
+$primaryColor: pink;
+$secondaryColor: black;
+
+@mixin containerColor($color) {
+  background-color: $color;
+}
+
+@mixin flexCenter($direction) {
+  align-items: center;
+  display: flex;
+  flex-direction: $direction;
+  justify-content: center;
+}
+
+.outerContainer {
+  box-sizing: border-box;
+  padding: 50px;
+  width: 100%;
+}
+
+.secOuterCont {
+  @extend .outerContainer;
+  @include containerColor($secondaryColor);
+}
+
+.innerContainer {
+  @include containerColor($secondaryColor);
+  @include flexCenter(column);
+  box-sizing: border-box;
+  color: $primaryColor;
+  justify-content: space-evenly;
+  padding: 50px;
+  height: 100%;
+  width: 100%;
+}
+
+.secInnerCont {
+  @extend .innerContainer;
+  @include containerColor($primaryColor);
+  color: $secondaryColor;
+}
+
+.outerLandingCont {
+  @extend .outerContainer;
+  @include containerColor($primaryColor);
+  @include flexCenter(column);
+  height: 100vh;
+}
+
+.mainHeader {
+  font-size: 6rem;
+  font-weight: bolder;
+}
+
+.subHeader {
+  font-size: 4rem;
+}
+
+.downTown {
+  @include flexCenter(column);
+}
