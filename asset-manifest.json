@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.336d636c.chunk.css",
-    "main.js": "/portfolio/static/js/main.e83d35c7.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.e83d35c7.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.36bc3c3b.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.36bc3c3b.js.map",
-    "static/js/2.692873b1.chunk.js": "/portfolio/static/js/2.692873b1.chunk.js",
-    "static/js/2.692873b1.chunk.js.map": "/portfolio/static/js/2.692873b1.chunk.js.map",
-    "static/js/3.6f3adbe6.chunk.js": "/portfolio/static/js/3.6f3adbe6.chunk.js",
-    "static/js/3.6f3adbe6.chunk.js.map": "/portfolio/static/js/3.6f3adbe6.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "static/css/main.336d636c.chunk.css.map": "/portfolio/static/css/main.336d636c.chunk.css.map",
-    "static/js/2.692873b1.chunk.js.LICENSE.txt": "/portfolio/static/js/2.692873b1.chunk.js.LICENSE.txt",
-    "static/media/DengieTakeaway.420e0893.png": "/portfolio/static/media/DengieTakeaway.420e0893.png",
-    "static/media/index.css": "/portfolio/static/media/NHaasGroteskTXPro-55Rg.69ec3dbc.ttf",
-    "static/media/Tax.2fd2b98f.png": "/portfolio/static/media/Tax.2fd2b98f.png",
-    "static/media/WordGame.47fb12c5.png": "/portfolio/static/media/WordGame.47fb12c5.png",
-    "static/media/Sass.css": "/portfolio/static/media/paralax.8e4cd88e.jpg"
+    "main.css": "/static/css/main.a53f32b1.chunk.css",
+    "main.js": "/static/js/main.e83d35c7.chunk.js",
+    "main.js.map": "/static/js/main.e83d35c7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.50bf0b1f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.50bf0b1f.js.map",
+    "static/js/2.692873b1.chunk.js": "/static/js/2.692873b1.chunk.js",
+    "static/js/2.692873b1.chunk.js.map": "/static/js/2.692873b1.chunk.js.map",
+    "static/js/3.6f3adbe6.chunk.js": "/static/js/3.6f3adbe6.chunk.js",
+    "static/js/3.6f3adbe6.chunk.js.map": "/static/js/3.6f3adbe6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a53f32b1.chunk.css.map": "/static/css/main.a53f32b1.chunk.css.map",
+    "static/js/2.692873b1.chunk.js.LICENSE.txt": "/static/js/2.692873b1.chunk.js.LICENSE.txt",
+    "static/media/DengieTakeaway.420e0893.png": "/static/media/DengieTakeaway.420e0893.png",
+    "static/media/index.css": "/static/media/NHaasGroteskTXPro-55Rg.69ec3dbc.ttf",
+    "static/media/Tax.2fd2b98f.png": "/static/media/Tax.2fd2b98f.png",
+    "static/media/WordGame.47fb12c5.png": "/static/media/WordGame.47fb12c5.png",
+    "static/media/Sass.css": "/static/media/paralax.8e4cd88e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.36bc3c3b.js",
+    "static/js/runtime-main.50bf0b1f.js",
     "static/js/2.692873b1.chunk.js",
-    "static/css/main.336d636c.chunk.css",
+    "static/css/main.a53f32b1.chunk.css",
     "static/js/main.e83d35c7.chunk.js"
   ]
 }
