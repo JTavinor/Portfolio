@@ -5,7 +5,7 @@ import ProjectsCard from "./components/ProjectsCard";
 import SkillsCard from "./components/SkillsCard";
 
 import "./Sass/Sass.css";
-
+//App
 function App() {
   return (
     <div className="App">

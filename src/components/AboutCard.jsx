@@ -16,14 +16,15 @@ function AboutCard(props) {
             <p>
               I have an affinity for problem solving which lead me to pursuing
               Mathematics in further education. Using logic alongside
-              imaginative solutions lead me to investigate a career in software
-              development, naturally starting my journey by learning Python.{" "}
+              imaginative solutions caused me to investigate a career in
+              software development, naturally starting my journey by learning
+              Python.{" "}
             </p>
             <p>
               After completing a few projects in Python I looked to expand my
-              skillset, trying out React, and finding that Front-end development
-              was what I wanted to pursue, combining what I already loved about
-              coding with visual feedback and aesthetic sensibilty.
+              skillset, so I tried out React. From this I found that Front-end
+              development was what I wanted to pursue, combining what I already
+              loved about coding with visual feedback and aesthetic sensibilty.
             </p>
             <p>
               Given we are firmly in the digital age, it is always incredibly
@@ -37,7 +38,7 @@ function AboutCard(props) {
               the backend, and integrating the data in the cloud using mongoDB.
               With each new project I aim to deepen my core knowledge of React
               alongside learning new supplentary skills. To this end I have used
-              git, Sass and React Native.
+              Git, Sass and React Native.
             </p>
             <p>
               Currently I am building ocean rowing boats, and I have recently
@@ -45,9 +46,9 @@ function AboutCard(props) {
               to working with the electronics, wiring up the batteries and solar
               panels for instance. I have been lucky in my tenure not only to
               learn the skills specific to rowing, but due to the high
-              pertforance nature of the craft we create alongside the stringent
-              safety measures has taught me to executue each job to the highest
-              possibkle standard, no matter how small.
+              performance nature of the craft we create alongside the stringent
+              safety measures has taught me to executue each task to the highest
+              possible standard, no matter how small.
             </p>
             <p>
               I have recently moved to London, and alongside connecting with
